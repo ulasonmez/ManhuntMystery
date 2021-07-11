@@ -1,0 +1,8 @@
+main: me.blume.murdermystery.Main
+name: ManhuntMystery
+author: Blume
+version: 1.0
+api-version: 1.16
+commands:
+  startmystery:
+  stopmystery:
